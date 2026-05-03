@@ -67,4 +67,5 @@ Display of exact distance on mobile dashboard
 
 
 CONCLUSION:
+
 The Car Reverse Parking System is a practical and efficient solution for enhancing vehicle safety during parking. By combining sensor technology and embedded systems, it provides reliable real-time feedback, making it an essential feature for modern smart vehicles.
